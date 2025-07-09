@@ -17,3 +17,6 @@ In the Javascript you can see some functions and easy validations to notice how 
 You can see the sessions of the user in the console, with the console log you will see the number of atemps of the user.
 
 <img width="1052" height="166" alt="Image" src="https://github.com/user-attachments/assets/aa31be0e-f599-4c40-a50c-010179351b7e" />
+
+- By: Mateo Algarin Rendon
+- Berners Lee
